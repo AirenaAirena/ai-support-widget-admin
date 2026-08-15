@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: coral;
+  font-family: -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
